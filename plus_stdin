@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPOx-FileCopyrightText: 2025 Yamada yuma j3371vkf@sit.ac.jp
 import sys
 
 ans = 0
