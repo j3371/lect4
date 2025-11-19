@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# SPOx-FileCopyrightText: 2025 Yamada yuma j3371vkf@sit.ac.jp
+# SPOX-FileCopyrightText: 2025 Yamada yuma j3371vkf@sit.ac.jp
+# SPOX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0
